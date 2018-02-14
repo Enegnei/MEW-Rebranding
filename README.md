@@ -1,2 +1,1 @@
-# MEW-Rebranding
-:gem: An investigation into the re-branding of MyEtherWallet (MEW)
+# The Rebranding of MyEtherWallet (MEW)
