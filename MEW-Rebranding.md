@@ -33,7 +33,7 @@ Within the two days after the split, Monahan and the MyCrypto team published thr
 
 Sometime around February 11th, Monahan joined the first half of "[The Bitcoin Podcast #184](https://web.archive.org/web/20180215152427/https://twitter.com/thebtcpodcast/status/962700159896424449?lang=en)" to talk about [the circumstances of MyCrypto's launch](https://archive.is/iVMXb). Before stating that she felt "forced into this leadership position," she defended the decision to not give advanced notice to followers / users about the change:
 
-> [23:30] One of the biggest questions that I'm seeing right now is, 'Why didn't you give us weeks and weeks of warnings?' Okay guys, sorry but... we've been dealing with these phishing attacks, these malicious attacks, these fake ICO addresses, for so long that I'm not going to extend the period of change-time.
+> [23:20] One of the biggest questions that I'm seeing right now is, 'Why didn't you give us weeks and weeks of warnings?' Okay guys, sorry but... we've been dealing with these phishing attacks, these malicious attacks, these fake ICO addresses, for so long that I'm not going to extend the period of change-time.
 >
 > With an ICO, this is what happens: you do marketing, you do marketing, you do marketing, you start the countdown clock. You do more marketing, you're tweeting "one day left guys, you ready?! You ready to invest, you ready to do this?" Then about twelve hours later, the phishers come in and start throwing addresses at people and all these naïve investors just throw the money right into the phisher's hands.
 >
