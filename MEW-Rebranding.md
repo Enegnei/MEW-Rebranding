@@ -11,7 +11,7 @@ On December 23rd 2017, front-end developer Taylor Monahan ([@tayvano_](https://w
 
 ### Twitter Account Split
 
-On February 8th 2018, Monahan changed the handle of the MEW account to "[MyCrypto](https://web.archive.org/web/20180210202039/https://twitter.com/MyCrypto/)," causing the account to split into one with the new handle and one with the old handle. The latter account was removed of its +70k followers and verified status. Because this was done without warning, the MEW account (reportedly still run by Hemachandra) was one of the first to [tweet about the handle change](https://web.archive.org/web/20180209111258/https:/twitter.com/myetherwallet/status/961792085060808704?lang=en). From his personal account, Hemachandra described the account split as "[improper, perhaps unlawful](https://web.archive.org/web/20180215161602/https://twitter.com/kvhnuke_/status/961808501088468992?lang=en)," but upon being asked for further comment explained that he was "[unable to make any comments without discussing this situation with my lawyers.](https://web.archive.org/web/20180209183106/https:/twitter.com/kvhnuke_/status/961892055558496256?lang=en)" When asked why he described it that way, Monahan responded, "[I don't know. I don't know why other people do things. I'm sorry](https://web.archive.org/web/20180215150920/https://twitter.com/tayvano_/status/961891235018416128?lang=en)." 
+On February 6th 2018, Monahan [changed the copyright attribution within the MIT license](https://archive.is/pVsm7) on a forked copy of MEW to include a new company called "MyCrypto." On February 8th 2018, Monahan changed the handle of the MEW account to "[MyCrypto](https://web.archive.org/web/20180210202039/https://twitter.com/MyCrypto/)," causing the account to split into one with the new handle and one with the old handle. The latter account was removed of its +70k followers and verified status. Because this was done without warning, the MEW account (reportedly still run by Hemachandra) was one of the first to [tweet about the handle change](https://web.archive.org/web/20180209111258/https:/twitter.com/myetherwallet/status/961792085060808704?lang=en). From his personal account, Hemachandra described the account split as "[improper, perhaps unlawful](https://web.archive.org/web/20180215161602/https://twitter.com/kvhnuke_/status/961808501088468992?lang=en)," but upon being asked for further comment explained that he was "[unable to make any comments without discussing this situation with my lawyers.](https://web.archive.org/web/20180209183106/https:/twitter.com/kvhnuke_/status/961892055558496256?lang=en)" When asked why he described it that way, Monahan responded, "[I don't know. I don't know why other people do things. I'm sorry](https://web.archive.org/web/20180215150920/https://twitter.com/tayvano_/status/961891235018416128?lang=en)." 
 
 On February 9th, Hemachandra released a statement about the split on **Reddit**:
 
@@ -34,6 +34,14 @@ Within the two days after the split, Monahan and the MyCrypto team published thr
 + "[A New Beginning: MyCrypto.com](https://archive.is/Drw5P)"
 + "[MyCrypto: What You Need To Know](https://archive.is/s4PcL)"
 + "[MyCrypto Launch FAQ](https://archive.is/9InbS)"
+
+In the first post, Monahan included edited screenshots of repository contributions on **GitHub**. By marking the number of commits that she and Hemachandra had made, she implied that he had not contributed as much to the project and his 'inactivity' justified the split.
+
+![GitHub commits calendar](https://archive.is/Drw5P/b809408d76aa64886306b42c00ef7f581d647bb8.png)
+
+However this may be a misrepresentation, because the number of commits is only one data point to consider. For example, when looking at the '[Contributors](https://github.com/kvhnuke/etherwallet/graphs/contributors)' page, one can also view the number of lines of code changed since the repository was created. Even though Monahan has made more than twice as many commits, she has only made addition changes to about 2%, and deletion changes to about 13%, more lines of code than Hemachandra.
+
+![GitHub commits calendar with 'lines of code changed' https://archive.is/3eO5y](https://archive.is/3eO5y/4ceada109118a8fafd9aabe7f471b3c0b6bab401.png)
 
 Sometime around February 11th, Monahan joined the first half of "[The Bitcoin Podcast #184](https://web.archive.org/web/20180215152427/https://twitter.com/thebtcpodcast/status/962700159896424449?lang=en)" to talk about [the circumstances of MyCrypto's launch](https://archive.is/iVMXb). Before stating that she felt "forced into this leadership position," she defended the decision to not give advanced notice to followers / users about the change:
 
