@@ -35,7 +35,7 @@ Within the two days after the split, Monahan and the MyCrypto team published thr
 + "[MyCrypto: What You Need To Know](https://archive.is/s4PcL)"
 + "[MyCrypto Launch FAQ](https://archive.is/9InbS)"
 
-In the first post, Monahan included edited screenshots of repository contributions on **GitHub**. By marking the number of commits that she and Hemachandra had made, she implied that he had not contributed as much to the project and his 'inactivity' justified the split.
+In the first post, Monahan included edited screenshots of repository contributions on **GitHub**. By marking the number of commits that she and Hemachandra had made, she implied that he had not contributed as much to the project and his '[inactivity](https://web.archive.org/web/20180215143619/https://twitter.com/MyCrypto/status/963927289938374656?lang=en)' justified the split.
 
 ![GitHub commits calendar](https://archive.is/Drw5P/b809408d76aa64886306b42c00ef7f581d647bb8.png)
 
