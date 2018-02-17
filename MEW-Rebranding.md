@@ -1,4 +1,6 @@
-# The Rebranding of MyEtherWallet (MEW)
+# :small_blue_diamond::small_blue_diamond::small_blue_diamond: :large_blue_diamond: :large_blue_circle: The Rebranding of MyEtherWallet (MEW) :large_blue_circle: :large_blue_diamond: :small_blue_diamond::small_blue_diamond::small_blue_diamond:
+
+![Investigation header image](https://i.imgur.com/PXSBEtu.png)
 
 ### Background
 
