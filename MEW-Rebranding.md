@@ -1,4 +1,4 @@
-# :small_blue_diamond::small_blue_diamond::small_blue_diamond: :large_blue_diamond: :large_blue_circle: The Brand Split of MyEtherWallet (MEW) :large_blue_circle: :large_blue_diamond: :small_blue_diamond::small_blue_diamond::small_blue_diamond:
+# :small_blue_diamond::large_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond::large_blue_diamond: The Brand Split of MyEtherWallet (MEW) :large_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond:
 
 ![Investigation header image](https://i.imgur.com/PXSBEtu.png)
 
@@ -66,6 +66,8 @@ Meanwhile, Hemachandra said he was [onboarding a new support team](https://web.a
 > MyEtherwallet remains an independent company. We have not disbanded or rebranded, and have no affiliation with MyCrypto. The truth is, more often than not, two-person business partnerships don’t last forever. This is particularly true in cases when one person starts to believe that one can succeed without the other or when sentiments of inequity begin to brood. This [is an] inconvenient and often painful truth, that I have been forced to come to terms with in recent weeks.
 
 On February 23th, he [launched](https://web.archive.org/web/20180227222817/https://twitter.com/myetherwallet/status/967241455373729793?lang=en) [a new team page](https://web.archive.org/web/20180227145147/https://team.myetherwallet.com/) and soon tweeted [a group photo](https://web.archive.org/web/20180227155825/https://twitter.com/kvhnuke_/status/967350547559755776?lang=en) from his personal account.
+
+In her [**MIT Bitcoin Expo**](https://web.archive.org/web/20180326001835/http://mitbitcoinexpo.org/) [keynote](https://web.archive.org/web/20180325235927/https://twitter.com/tayvano_/status/975912646510772229?lang=en), Monahan described the split as "[a little brand-fork](https://archive.is/chi3J#selection-265.2-265.105)."
 
 ### Legal Dispute
 
