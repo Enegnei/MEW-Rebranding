@@ -1,4 +1,4 @@
-# :small_blue_diamond::large_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond::large_blue_diamond: The Brand Split of MyEtherWallet (MEW) :large_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond:
+# :large_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond::large_blue_diamond: The Brand Split of MyEtherWallet (MEW) :large_blue_diamond::small_blue_diamond::large_blue_diamond::small_blue_diamond::large_blue_diamond:
 
 ![Investigation header image](https://i.imgur.com/PXSBEtu.png)
 
